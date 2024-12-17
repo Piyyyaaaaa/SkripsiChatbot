@@ -1,0 +1,45 @@
+Cara Instalasi Program
+
+1. Instalasi Python
+a. Install Python dari python.org
+b. Verifikasi versi Python = python --version atau python -V
+
+2. Instalasi Flutter SDK
+a. Install Flutter dari flutter.dev
+
+3. Instalasi Android Studio
+a. Install android studio
+b. Membuat emulator android untuk pengembangan aplikasi
+
+4. Instalasi XAMPP Control Panel
+a. Buka XAMPP Control Panel
+b. Klik tombol start pada apache dan MySQL
+c. Akses MySQL melalui phpMyAdmin pada browser dengan mengakses http://localhost/phpmyadmin
+
+5. Clone Repository
+a. git clone https://github.com/Piyyyaaaaa/SkripsiChatbot.git
+b. flutter pub get
+c. flutter pub upgrade
+
+5. Konfigurasi Database
+a. Jalankan MySQL melalui XAMPP
+b. Buat tabel database
+c. Tambahkan data yang akan digunakan
+
+4. Instalasi Library
+a. pip install nltk
+b. pip install pandas
+c. pip install seaborn
+d. pip install matplotlib
+e. pip install scikit-learn
+f. pip install numpy
+g. pip install Flask
+h. pip install flask_sqlalchemy
+i. pip install flask_cors
+
+5. Jalankan Aplikasi
+a. python chat.py
+b. flutter run
+
+6. Akses Aplikasi
+a. http://10.0.2.2:5000/chatbot untuk menjalankan aplikasi pada android
