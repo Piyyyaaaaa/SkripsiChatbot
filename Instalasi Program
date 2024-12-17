@@ -43,3 +43,4 @@ b. flutter run
 
 6. Akses Aplikasi
 a. http://10.0.2.2:5000/chatbot untuk menjalankan aplikasi pada android
+b. Untuk hp fisik sesuaikan dengan IP Address komputer
